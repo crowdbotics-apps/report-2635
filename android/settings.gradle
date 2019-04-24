@@ -1,0 +1,3 @@
+rootProject.name = 'report_2635'
+
+include ':app'
